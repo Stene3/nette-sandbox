@@ -1,0 +1,5 @@
+application:
+	catchExceptions: TRUE
+	errorPresenter: Error
+	mapping:
+		*: "App\\*\\*Presenter"

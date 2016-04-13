@@ -1,0 +1,16 @@
+# app files
+/app/config/config.local.neon
+/vendor/*
+/log/*
+/temp/*
+!.gitignore
+!.htaccess
+
+# netbeans, eclipse, os image cache
+nbproject
+.project
+.settings
+*.sublime-*
+Thumbs.db
+.DS_Store
+.idea
